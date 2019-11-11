@@ -16,7 +16,7 @@ public class BaseAttrInfo implements Serializable {
     private String attrName;
     @Column
     private String catalog3Id;
-    //sdjkdgh;a 
+    //sdjk三大暗访啊
     @Transient
     private List<BaseAttrValue> attrValueList;
 
