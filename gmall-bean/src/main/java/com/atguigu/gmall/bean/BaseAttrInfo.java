@@ -16,7 +16,7 @@ public class BaseAttrInfo implements Serializable {
     private String attrName;
     @Column
     private String catalog3Id;
-    //添加是的
+    //添加是的好的
     @Transient
     private List<BaseAttrValue> attrValueList;
 
